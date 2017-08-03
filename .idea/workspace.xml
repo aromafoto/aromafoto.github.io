@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="948ab808-bb9a-4029-8a6b-458cece68d19" name="Default" comment="" />
+    <list default="true" id="948ab808-bb9a-4029-8a6b-458cece68d19" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="73" column="241" lean-forward="false" selection-start-line="73" selection-start-column="241" selection-end-line="73" selection-end-column="241" />
+            <state relative-caret-position="510">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -29,11 +31,51 @@
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1501762272999" expanded="false" signature="4573:4595" ph="..." />
-                <marker date="1501762272999" expanded="false" signature="4596:5818" ph="..." />
-                <marker date="1501762272999" expanded="false" signature="9451:9474" ph="..." />
-                <marker date="1501762272999" expanded="false" signature="9509:11069" ph="..." />
+                <marker date="1501763114158" expanded="false" signature="4576:4598" ph="..." />
+                <marker date="1501763114158" expanded="false" signature="4599:5821" ph="..." />
+                <marker date="1501763114158" expanded="false" signature="9454:9477" ph="..." />
+                <marker date="1501763114158" expanded="false" signature="9512:11072" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.default.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.default.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,6 +85,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ein-steig</find>
+      <find>http</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,12 +129,44 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b&amp;w" />
+              <option name="myItemId" value="aromafoto.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b&amp;w" />
+              <option name="myItemId" value="aromafoto.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aromafoto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aromafoto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aromafoto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aromafoto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap.css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -179,10 +254,10 @@
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1501762272999" expanded="false" signature="4573:4595" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="4596:5818" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9451:9474" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9509:11069" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4576:4598" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4599:5821" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9454:9477" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9512:11072" ph="..." />
           </folding>
         </state>
       </provider>
@@ -203,10 +278,10 @@
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1501762272999" expanded="false" signature="4573:4595" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="4596:5818" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9451:9474" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9509:11069" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4576:4598" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4599:5821" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9454:9477" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9512:11072" ph="..." />
           </folding>
         </state>
       </provider>
@@ -227,10 +302,10 @@
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1501762272999" expanded="false" signature="4573:4595" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="4596:5818" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9451:9474" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9509:11069" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4576:4598" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4599:5821" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9454:9477" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9512:11072" ph="..." />
           </folding>
         </state>
       </provider>
@@ -240,10 +315,53 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="0" column="263" lean-forward="true" selection-start-line="0" selection-start-column="263" selection-end-line="0" selection-end-column="263" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="73" column="241" lean-forward="false" selection-start-line="73" selection-start-column="241" selection-end-line="73" selection-end-column="241" />
+        <state relative-caret-position="510">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -256,10 +374,10 @@
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1501762272999" expanded="false" signature="4573:4595" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="4596:5818" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9451:9474" ph="..." />
-            <marker date="1501762272999" expanded="false" signature="9509:11069" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4576:4598" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="4599:5821" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9454:9477" ph="..." />
+            <marker date="1501763114158" expanded="false" signature="9512:11072" ph="..." />
           </folding>
         </state>
       </provider>
